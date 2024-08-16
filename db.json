@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "description": "iPhone Stand",
+            "title": "a title",
+            "image": "https://onedrive.live.com/?cid=61CB2A15F110DF78&id=61CB2A15F110DF78%21108281&parId=61CB2A15F110DF78%21108262&o=OneUp",
+            "price": 22.99
+        },
+        {
+            "id": "2",
+            "description": "Keyboard",
+            "title": "a title",
+            "image": "https://1drv.ms/i/s!AnjfEPEVKsthhs1nnHR_PS3dpY8yXw?e=inWgmq",
+            "price": 45.99
+        },
+        {
+            "id": "3",
+            "description": "Mouse",
+            "title": "a title",
+            "image": "https://1drv.ms/i/s!AnjfEPEVKsthhs4OgyZzvPWBkHusHQ?e=3SjCjp",
+            "price": 25.00
+        },
+        {
+            "id": "3",
+            "description": "charging stand",
+            "title": "a title",
+            "image": "https://photos.onedrive.com/share/61CB2A15F110DF78!108276?cid=61CB2A15F110DF78&resId=61CB2A15F110DF78!108276&authkey=!ADlPm0eBnCXf5l4&ithint=photo&e=QEcQyl",
+            "price": 25.00
+        }
+    ]
+}
